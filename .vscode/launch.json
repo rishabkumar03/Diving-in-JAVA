@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AdvPattern5",
+            "request": "launch",
+            "mainClass": "Learning.level6.AdvPattern5",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "AdvPattern4",
+            "request": "launch",
+            "mainClass": "Learning.level6.AdvPattern4",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "AdvPattern2",
+            "request": "launch",
+            "mainClass": "Learning.level6.AdvPattern2",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "AdvPattern1",
+            "request": "launch",
+            "mainClass": "Learning.level6.AdvPattern1",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
             "name": "PatternProb3",
             "request": "launch",
             "mainClass": "PracticePaper.level5.PatternProb3",
