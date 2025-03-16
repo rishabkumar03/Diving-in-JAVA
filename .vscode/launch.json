@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AdvPatternProb1",
+            "request": "launch",
+            "mainClass": "PracticePaper.level6.AdvPatternProb1",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
             "name": "AdvPattern5",
             "request": "launch",
             "mainClass": "Learning.level6.AdvPattern5",
