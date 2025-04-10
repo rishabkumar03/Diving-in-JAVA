@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Functions3",
+            "request": "launch",
+            "mainClass": "PracticePaper.exercise7.Functions3",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Functions2",
+            "request": "launch",
+            "mainClass": "PracticePaper.exercise7.Functions2",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Functions1",
+            "request": "launch",
+            "mainClass": "PracticePaper.exercise7.Functions1",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Methods3",
+            "request": "launch",
+            "mainClass": "level7.Methods3",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Methods2",
+            "request": "launch",
+            "mainClass": "level7.Methods2",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "level7.Methods",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "level7.Functions",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
             "name": "AdvPatternProb5",
             "request": "launch",
             "mainClass": "PracticePaper.level6.AdvPatternProb5",
