@@ -1,10 +1,4 @@
-/*
-
 // Make a function to check if a number is prime or not.
-Read about Recursion.
-
-
- */
 
 package PracticePaper.exercise7;
 
