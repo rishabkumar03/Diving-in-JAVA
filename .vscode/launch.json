@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "quest10",
+            "request": "launch",
+            "mainClass": "quest10",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Solutions",
+            "request": "launch",
+            "mainClass": "Solutions",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest09",
+            "request": "launch",
+            "mainClass": "quest09",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest08",
+            "request": "launch",
+            "mainClass": "quest08",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest07",
+            "request": "launch",
+            "mainClass": "quest07",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest06",
+            "request": "launch",
+            "mainClass": "quest06",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest05",
+            "request": "launch",
+            "mainClass": "quest05",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest04",
+            "request": "launch",
+            "mainClass": "quest04",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest03",
+            "request": "launch",
+            "mainClass": "quest03",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest02",
+            "request": "launch",
+            "mainClass": "quest02",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "quest01",
+            "request": "launch",
+            "mainClass": "quest01",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
             "name": "Functions3",
             "request": "launch",
             "mainClass": "PracticePaper.exercise7.Functions3",
