@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array3",
+            "request": "launch",
+            "mainClass": "PracticePaper.exercise8.Array3",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "PracticePaper.exercise8.Array2",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "PracticePaper.exercise8.Array1",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Arrays2",
+            "request": "launch",
+            "mainClass": "chapter8.Arrays2",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "chapter8.Arrays",
+            "projectName": "Diving in JAVA_e958b09c"
+        },
+        {
+            "type": "java",
             "name": "quest10",
             "request": "launch",
             "mainClass": "quest10",
